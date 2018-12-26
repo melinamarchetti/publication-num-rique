@@ -39,5 +39,5 @@ Scrolling letter
 </ol></p>
 
 <p>Vu que le lieu de lecture idéal est l'ipad,la publication la plus intéressante se présente comme suit: 
-<img src="ipadtype1.jpg">
-<img src="ipadtype2.jpg">
+<img src="ipadtype1.png">
+<img src="ipadtype2.png">
