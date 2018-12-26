@@ -2,7 +2,8 @@
 
 <h2> Auteur du projet</h2>
 Ce travail a été réalisé par <strong>Melina Marchetti</strong> dans le cadre de sa spécialisation de Master en pédagogie et médiation culturelle, à l’occasion du cours <strong>« Publication numérique »</strong> dispensé par I. Pante à l’Unil.
-  
+
+<h2> Description du projet </h2>
 <p><strong>Ce travail vise à améliorer, de manière esthétique et pratique, les articles publiés par A. Rodriguez sur poésieromande.ch au sujet du Réseau nommé poésie : http://www.poesieromande.ch/wordpress/reseau-poesie/. Le but initial du projet n’était alors pas d’enrichir sémantiquement le texte, mais de travailler sur sa possible meilleure lecture pour tout utilisateur à travers le point focal qu’est l’ipad –le texte reste lisible sur tout type de média. Ayant tenté de rendre le texte plus attrayant et facile à lire sur une page HTML par le biais de l’utilisation du CSS, de polices téléchargées et de plugins, nous avons décidé de présenter les 10 articles à travers 10 parties, avec un titre, le début de l’article, une photos animée, et un lien qui renvoie à l’article en entier ; ensuite, l’article en entier s’affiche de manière épurée et agréable à lire.</strong> 
 Le projet se trouve à ces pages :
 - https://github.com/melinamarchetti/publication-num-rique.git
@@ -10,6 +11,7 @@ Le projet se trouve à ces pages :
 
 </p>
 
+<h2>Fonctionnalités du projet</h2>
 <p>Pour présenter notre travail, nous avons joint les fichiers suivants dans le dossier github :<ol>
 -	<strong>Le fichier principal HTML</strong>, nommé « index », qui renvoie à la page produite s’affichant sur le navigateur. Il est composé de trois parties : 1) un titre 2) un résumé contextuel sur les articles 3) les 10 articles, tous composés d’une titre, du rédacteur et de la date de la parution, du début de l’article, et d’une photo animée. La lecture en deux étapes favorise, selon nous, l’intérêt du lecteur et pousse à scinder sa lecture en plusieurs étapes – donc de finir le texte.
 -	<strong>Les fichiers secondaires HTML</strong>, nommés posts, qui contiennent les 10 fichiers sur lesquels ouvrent les liens. Ceux-ci sont composés d’un titre, d’un résumé, du texte, d’une image et de la référence du texte.
