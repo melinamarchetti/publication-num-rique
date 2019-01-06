@@ -19,9 +19,9 @@ Le projet se trouve à ces pages :
 -	<strong>Un dossier CSS</strong>, qui contient trois fichiers au format CSS gérant le style du document HTML : 1) la feuille de style typique 2) , 3). 
 Soulignons que nous avons pensé au style général dans l'optique de rendre la lecture plus agréable : un fond clair et un texte foncé, une couleur violette esthétique ; des marges larges ; un interligne important ; une taille de police facilitant la lecture et des variations sur les tailles présentes mais pas trop conséquentes afin de ne pas saturer le lecteur.<br />
 -	<strong>Un dossier de polices</strong>, qui touche lui aux polices téléchargées pour le travail. Les polices sélectionnées – accompagnées d’un interligne et de marges conséquentes - permettent, selon nous, une lecture plaisante.<br />
--	<strong>Un dossier JS</strong>, qui contient le fichier du format JS permettant de mettre les images en mouvement.
+-	<strong>Un dossier JS</strong>, qui contient le fichier du format JS permettant de mettre les images en mouvement.<br />
 -	<strong>Un dossier image</strong>, regroupant les images de notre support (elles proviennent du site poésieromande.ch). <br/>
--	Notons aussi que nous avons ajouté <strong>3 fichiers </strong>dans le fichier principal directement : </ol><ol><br />
+-	Notons aussi que nous avons ajouté <strong>3 fichiers </strong>dans le fichier principal directement :<br />
 1. <strong>Le premier lien</strong>, qui touche à <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script><br />
 2. <strong>Le deuxième lien</strong>, qui se rapporte à <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script><br />
 3. <strong>Le troisième lien</strong>, qui renvoie au fichier bosstrap.min permettant de rendre responsive le document : grâce à celui-ci, notre page s’adapte à tous les navigateurs <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
@@ -32,12 +32,12 @@ Animation des images : Javascript :
 Scrolling letter 
 
 <p>Souhaitant faciliter l’acte de lecture des articles tout en développant un design épuré davantage esthétique, nous avons intégré les éléments et fonctionnalités suivantes:
-<ol>-	<strong>un scrolling letter</strong>, pour que le lecteur sache quand son acte de lecture se termine (cela constitue une motivation de lecture).<br />
+-	<strong>un scrolling letter</strong>, pour que le lecteur sache quand son acte de lecture se termine (cela constitue une motivation de lecture).<br />
 -	<strong>une mise en page plus intéressante esthétiquement et qui rend la lecture meilleure</strong>, en accentuant un numéro plus visible ; en travaillant le choix d’une police (Helvetica Neue), ses diverses tailles et ses couleurs (noir et violets); en choisissant un corps de texte général avec alignement justifié à 13px; en optant pour un saut de ligne tous les 50 signes environ ; en ajoutant des marges de chaque côté du texte (width 85% et des margin 30px); en proposant un résumé pour chaque article avant ouverture ; et en agrandissant les photos.<br /> 
 -	<strong>Un changement de page</strong> en cliquant sur le titre ou le more pour la page principale ; et le titre pour les pages secondaires. <br />
 -	<strong>Des images animées</strong><br />
 -	<strong>Une lecture possible</strong> de la page html sur toute forme de média (ipad, natel, ordinateur).<br />
-</ol></p>
+</p>
 
 <p>Vu que le lieu de lecture idéal est l'ipad,la publication la plus intéressante se présente comme suit: 
 <img src="ipadtype1.png">
