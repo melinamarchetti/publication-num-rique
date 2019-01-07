@@ -34,7 +34,7 @@ Le projet se trouve à ces pages :
 
 <p>Vu que le lieu de lecture idéal est l'ipad,la publication la plus intéressante se présente comme suit: 
 <img src="ipadtype1.png">
-
+<img src="ipadtype2.png">
 
  <h2> Auteur du projet</h2>
 Ce travail a été réalisé par <strong>Melina Marchetti</strong> dans le cadre de sa spécialisation de Master en pédagogie et médiation culturelle, à l’occasion du cours <strong>« Publication numérique »</strong> dispensé par I. Pante à l’Unil en 2017.
