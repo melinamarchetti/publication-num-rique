@@ -17,6 +17,7 @@ Le projet se trouve à ces pages :
 -	<strong>Un dossier de polices</strong>, qui touche lui aux polices téléchargées pour le travail. Les polices sélectionnées – accompagnées d’un interligne et de marges conséquentes - permettent, selon nous, une lecture plaisante.<br />
 -	<strong>Un dossier image</strong>, regroupant les images de notre support (elles proviennent du site poésieromande.ch). <br/>
 
+
 <p>Souhaitant faciliter l’acte de lecture des articles tout en développant un design épuré davantage esthétique, nous avons intégré les éléments et fonctionnalités suivantes:
 -	<strong>un scrolling letter</strong>, pour que le lecteur sache quand son acte de lecture se termine (cela constitue une motivation de lecture).<br />
 -	<strong>une mise en page plus intéressante esthétiquement et qui rend la lecture meilleure</strong>, en accentuant un numéro plus visible ; en travaillant le choix d’une police (Helvetica Neue), ses diverses tailles et ses couleurs (noir et violets); en choisissant un corps de texte général avec alignement justifié à 13px; en optant pour un saut de ligne tous les 50 signes environ ; en ajoutant des marges de chaque côté du texte (width 85% et des margin 30px); en proposant un résumé pour chaque article avant ouverture ; et en agrandissant les photos.<br /> 
