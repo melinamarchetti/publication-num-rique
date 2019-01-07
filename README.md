@@ -1,8 +1,5 @@
 <h1><align center>Projet Un réseau nommé poésie</align center</h1>
 
-<h2> Auteur du projet</h2>
-Ce travail a été réalisé par <strong>Melina Marchetti</strong> dans le cadre de sa spécialisation de Master en pédagogie et médiation culturelle, à l’occasion du cours <strong>« Publication numérique »</strong> dispensé par I. Pante à l’Unil en 2017.
-
 <h2> Description du projet </h2>
 <p><strong>Ce travail vise à améliorer, de manière esthétique et pratique, les articles publiés par A. Rodriguez sur poésieromande.ch au sujet du Réseau nommé poésie : http://www.poesieromande.ch/wordpress/reseau-poesie/.</strong>
  Le but initial du projet n’était alors pas d’enrichir sémantiquement le texte, mais de travailler sur sa possible meilleure lecture pour tout utilisateur à travers le point focal qu’est l’ipad –le texte reste lisible sur tout type de média. Ayant tenté de rendre le texte plus attrayant et facile à lire sur une page HTML par le biais de l’utilisation du CSS, de polices téléchargées et de plugins, nous avons décidé de présenter les 10 articles à travers 10 parties, avec un titre, le début de l’article, une photos animée, et un lien qui renvoie à l’article en entier ; ensuite, l’article en entier s’affiche de manière épurée et agréable à lire. 
@@ -42,3 +39,7 @@ Scrolling letter
 <p>Vu que le lieu de lecture idéal est l'ipad,la publication la plus intéressante se présente comme suit: 
 <img src="ipadtype1.png">
 <img src="ipadtype2.png">
+ 
+ 
+ <h2> Auteur du projet</h2>
+Ce travail a été réalisé par <strong>Melina Marchetti</strong> dans le cadre de sa spécialisation de Master en pédagogie et médiation culturelle, à l’occasion du cours <strong>« Publication numérique »</strong> dispensé par I. Pante à l’Unil en 2017.
