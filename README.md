@@ -10,7 +10,7 @@ Le projet se trouve à ces pages :
 </p>
 
 <h2>Fonctionnalités du projet</h2>
-<p>Pour présenter notre travail, nous avons joint les fichiers suivants dans le dossier github :<ol>
+<p>Pour présenter notre travail, nous avons joint les fichiers suivants dans le dossier github "publication /travail/images/travail" :<ol>
 -	<strong>Le fichier principal HTML</strong>, nommé « index », qui renvoie à la page produite s’affichant sur le navigateur. Il est composé de trois parties : 1) un titre 2) un résumé contextuel sur les articles 3) les 10 articles, tous composés d’une titre, du rédacteur et de la date de la parution, du début de l’article, et d’une photo animée. La lecture en deux étapes favorise, selon nous, l’intérêt du lecteur et pousse à scinder sa lecture en plusieurs étapes – donc de finir le texte.<br />
 -	<strong>Les fichiers secondaires HTML</strong>, nommés posts, qui contiennent les 10 fichiers sur lesquels ouvrent les liens. Ceux-ci sont composés d’un titre, d’un résumé, du texte, d’une image et de la référence du texte.<br />
 -	<strong>Un dossier CSS</strong>, qui contient un fichier au format CSS qui gère le style du document HTML. Soulignons que nous avons pensé au style général dans l'optique de rendre la lecture plus agréable : un fond clair et un texte foncé, une couleur violette esthétique ; des marges larges ; un interligne important ; une taille de police facilitant la lecture et des variations sur les tailles présentes mais pas trop conséquentes afin de ne pas saturer le lecteur.<br />
