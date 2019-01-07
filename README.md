@@ -5,7 +5,7 @@
  Le but initial du projet n’était alors pas d’enrichir sémantiquement le texte, mais de travailler sur sa possible meilleure lecture pour tout utilisateur à travers le point focal qu’est l’ipad –le texte reste lisible sur tout type de média. Ayant tenté de rendre le texte plus attrayant et facile à lire sur une page HTML par le biais de l’utilisation du CSS, de polices téléchargées et de plugins, nous avons décidé de présenter les 10 articles à travers 10 parties, avec un titre, le début de l’article, une photos animée, et un lien qui renvoie à l’article en entier ; ensuite, l’article en entier s’affiche de manière épurée et agréable à lire. 
 Le projet se trouve à ces pages :
 - <br/>https://github.com/melinamarchetti/publication-num-rique.git
--
+- <br/> https://melinamarchetti.000webhostapp.com
 
 </p>
 
