@@ -16,9 +16,9 @@ Le projet se trouve à ces pages :
 -	<strong>Un dossier CSS</strong>, qui contient un fichier au format CSS qui gère le style du document HTML. Soulignons que nous avons pensé au style général dans l'optique de rendre la lecture plus agréable : un fond clair et un texte foncé, une couleur violette esthétique ; des marges larges ; un interligne important ; une taille de police facilitant la lecture et des variations sur les tailles présentes mais pas trop conséquentes afin de ne pas saturer le lecteur.<br />
 -	<strong>Un dossier de polices</strong>, qui touche lui aux polices téléchargées pour le travail. Les polices sélectionnées – accompagnées d’un interligne et de marges conséquentes - permettent, selon nous, une lecture plaisante.<br />
 -	<strong>Un dossier image</strong>, regroupant les images de notre support (elles proviennent du site poésieromande.ch). <br/>
-
-
-<p>Souhaitant faciliter l’acte de lecture des articles tout en développant un design épuré davantage esthétique, nous avons intégré les éléments et fonctionnalités suivantes:
+<br/>
+<br/>
+<p>Souhaitant faciliter l’acte de lecture des articles tout en développant un design épuré davantage esthétique, nous avons intégré les éléments et fonctionnalités suivantes:<br/>
 -	<strong>un scrolling letter</strong>, pour que le lecteur sache quand son acte de lecture se termine (cela constitue une motivation de lecture).<br />
 -	<strong>une mise en page plus intéressante esthétiquement et qui rend la lecture meilleure</strong>, en accentuant un numéro plus visible ; en travaillant le choix d’une police (Helvetica Neue), ses diverses tailles et ses couleurs (noir et violets); en choisissant un corps de texte général avec alignement justifié à 13px; en optant pour un saut de ligne tous les 50 signes environ ; en ajoutant des marges de chaque côté du texte (width 85% et des margin 30px); en proposant un résumé pour chaque article avant ouverture ; et en agrandissant les photos.<br /> 
 -	<strong>Un changement de page</strong> en cliquant sur le titre ou le more pour l'aller de la page principale à la page secondaire ; et le titre pour le retour des pages secondaires à la page principale. <br />
